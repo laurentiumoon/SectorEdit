@@ -12,7 +12,7 @@
 #define new DEBUG_NEW
 #endif
 
-// TODO..
+
 // CSectorEditApp
 
 BEGIN_MESSAGE_MAP(CSectorEditApp, CWinAppEx)
