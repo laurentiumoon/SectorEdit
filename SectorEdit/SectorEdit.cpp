@@ -1,7 +1,6 @@
 
 // SectorEdit.cpp : Defines the class behaviors for the application.
-//
-// 
+
 
 
 
@@ -20,7 +19,7 @@ BEGIN_MESSAGE_MAP(CSectorEditApp, CWinAppEx)
 	ON_COMMAND(ID_HELP, &CWinApp::OnHelp)
 END_MESSAGE_MAP()
 
-
+//
 // CSectorEditApp construction
 
 CSectorEditApp::CSectorEditApp()
